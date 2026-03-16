@@ -98,7 +98,7 @@ The interface allows real-time control of parameters:
 ## Project Structure
 
 ```
-ASCII-SKETCHCODE
+digital-vision-art
 ├─ hasil
 ├─ sketches
 ├─ video
