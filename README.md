@@ -1,4 +1,4 @@
-# ASCII Motion Thermal
+# Digital Vision Art
 
 Generative computer vision sketch that combines **motion detection**, **ASCII rendering**, and **thermal blob visualization** using **canvas-sketch** and **Tweakpane**.
 
@@ -29,11 +29,17 @@ Example output:
 
 * **canvas-sketch**
 * **Tweakpane**
-* **HTML5 Canvas**
 * **JavaScript**
 * **Motion Detection Algorithm**
 
----
+## Preview
+
+<p center="center">
+  <img src="hasil/hourses.gif" width="700"/>
+</p>
+
+**MP4 Preview:** [Watch the video](hasil/rain-ascii.mp4)
+
 
 ## Installation
 
@@ -92,15 +98,14 @@ The interface allows real-time control of parameters:
 ## Project Structure
 
 ```
-ascii-motion-thermal
-│
+ASCII-SKETCHCODE
+├─ hasil
 ├─ sketches
-│   └─ sketch.js
-│
 ├─ video
 │   └─ kuda2.mp4
-│
-├─ preview.gif
+│   └─ kuda.mp4
+├─ ascii-rain-webcam.js
+├─ sketch-ascii.js
 ├─ package.json
 └─ README.md
 ```
