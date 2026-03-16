@@ -100,7 +100,8 @@ The interface allows real-time control of parameters:
 ```
 digital-vision-art
 ├─ hasil
-├─ sketches
+│   └─ hourses.gif
+│   └─ rain-ascii.mp4
 ├─ video
 │   └─ kuda2.mp4
 │   └─ kuda.mp4
